@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andre Goncalves, Ph.D."
+  name             : "Andre Goncalves, PhD"
   avatar           : "profile.png"
-  bio              : "Machine Learning Researcher at LLNL"
+  bio              : "Machine Learning Researcher"
   location         : "Livermore, CA"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Lawrence Livermore National Laboratory"
+  googlescholar    : "https://scholar.google.com/citations?user=pn7hL2cAAAAJ&hl=en"
   email            :
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/andreric/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/andreric"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0320-280X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
