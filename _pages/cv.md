@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Science, State University of Londrina, Brazil, 2008
+* M.S. in Computer Engineering, University of Campinas, Brazil, 2011
+* Ph.D in Computer Engineering, University of Campinas and University of Minnesota, 2016
 
 Work experience
 ======
