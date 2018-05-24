@@ -13,9 +13,9 @@ I received my Ph.D degree in Computer Engineering from [University of Campinas](
 
 Currently, I'm doing Machine Learning Research at the [Lawrence Livermore National Laboratory](https://www.llnl.gov) in Livermore, CA, USA.
 
-My CV can be found here.
+#My CV can be found here.
 
-A list of my publications is here.
+#A list of my publications is here.
 
 **Background:**
 
