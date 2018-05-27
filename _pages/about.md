@@ -7,9 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Andre Goncalves.
 
-I received my Ph.D degree in Computer Engineering from [University of Campinas](http://www.unicamp.br/unicamp/english) (Unicamp), in Brazil, with thesis topic "Sparse and Structural Multitask Learning". My advisors were Dr. Fernando José Von Zuben (Unicamp) and Dr. Arindam Banerjee (University of Minnesota, Twin Cities). I spent part of my Ph.D studies at University of Minnesota - Twin Cities, MN, USA.
+I'm a machine learning researcher at the [Lawrence Livermore National Laboratory](https://www.llnl.gov) in Livermore, CA, USA.
 
-Currently, I'm doing Machine Learning Research at the [Lawrence Livermore National Laboratory](https://www.llnl.gov) in Livermore, CA, USA.
+I received my Ph.D degree in Computer Engineering from [University of Campinas](http://www.unicamp.br/unicamp/english) (Unicamp) in Brazil and [University of Minnesota - Twin Cities](https://www.cs.umn.edu), MN, USA, with thesis topic ["Sparse and Structural Multitask Learning"](../files/PhD_Thesis_Andre_R_Goncalves.pdf). My advisors were Dr. Fernando José Von Zuben (Unicamp) and Dr. Arindam Banerjee (University of Minnesota, Twin Cities). 
+
+My main research interests are in multitask learning, Deep learning, Bayesian models, sparse models, and convex optimization. I've been applying those techniques on problems from a variety of areas such as climate sciences, Alzheimer's disease progression, cancer survival prediction, and speech signal processing.
+
+
+
 
