@@ -83,10 +83,10 @@ for row, item in publications.iterrows():
 
     md += "\nvenue: '" + html_escape(item.venue) + "'"
 
+    md += "\authors: '" + html_escape(item.authors) + "'"
+
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
-
-    #md += "\ncitation: '" + html_escape(item.citation) + "'"
 
     md += "\n---"
 
