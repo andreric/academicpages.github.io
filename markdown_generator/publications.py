@@ -92,13 +92,13 @@ for row, item in publications.iterrows():
 
     ## Markdown description for individual page
 
+    md += "\nAuthors: " + html_escape(item.authors) + "\n"
+
+    if len(str(item.excerpt)) > 5:
+        md += "\n" + html_escape(item.excerpt) + "\n"
+
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Access full paper here</a>\n"
-    #
-    # if len(str(item.excerpt)) > 5:
-    #     md += "\n" + html_escape(item.excerpt) + "\n"
-    md += "\authors: '" + html_escape(item.authors) + "'"
-    #md += "\nRecommended citation: " + item.citation
+        md += "\n[Access full paper here](" + item.paper_url + ")\n"
 
     md_filename = os.path.basename(md_filename)
 
